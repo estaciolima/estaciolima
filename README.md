@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @estaciolima
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Science and Robotics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in anything interesting enough
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on anything that is worth doing, I want to learn
 - 📫 How to reach me ...
 
 <!---
