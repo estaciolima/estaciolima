@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @estaciolima
-- 👀 I’m interested in anything interesting enough
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on anything that is worth doing, I want to learn
+- 👀 I’m interested in data science and cybersecurity
 - 📫 How to reach me estaciocerqueira7@gmail.com
 
 <!---
