@@ -24,9 +24,9 @@ An exploratory comparative study of logistic regression, Bayesian networks, Naiv
 
 Master's research on Multiregression Dynamic Models (MDMs) and Bayesian sequential monitoring applied to multivariate time series from Petrobras' [3W Dataset](https://github.com/petrobras/3W).
 
-The research investigates local and global change-point detection using predictive Bayes factors, CUSUM, and bilateral Bayesian monitoring, with reproducible experiments and an interactive Shiny dashboard.
+The research investigates local and global change-point detection using predictive Bayes factors, CUSUM, and bilateral Bayesian monitoring, with reproducible experiments.
 
-**Stack:** R, Shiny, renv.
+**Stack:** R, renv.
 
 *The research implementation is currently private.*
 
